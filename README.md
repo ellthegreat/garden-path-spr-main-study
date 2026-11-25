@@ -1,4 +1,4 @@
-# Garden Path SPR – Main Study v2
+# Garden Path SPR – Main Study
 
 Independent repository for the conceptual replication/extension experiment.
 
